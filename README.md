@@ -46,4 +46,4 @@ Follow these instructions to set up the project locally for development and test
 
    ```bash
    git clone https://github.com/chaimaboutou/To_DO_App_Serverless.git
-   cd todo-list-app
+   cd TO_DO_App_Serverless
